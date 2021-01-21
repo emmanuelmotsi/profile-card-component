@@ -55,7 +55,6 @@ img {
     top: 25%;
     border-radius: 20px;
     box-shadow: 0 0 10px -5px;
-    ;
 }
 
 .header-pattern {
@@ -73,4 +72,5 @@ img {
     position: fixed;
     bottom: 10px;
     left: 42%;
+    font-size: 11px;
 }
