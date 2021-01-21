@@ -72,10 +72,11 @@ img {
 }
 
 .attribution {
+    font-weight: 300;
     position: fixed;
     bottom: 10px;
-    margin: 0 auto;
-    padding: 0;
+    width: 100%;
+    text-align: center;
 }
 
 .attribution p,
