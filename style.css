@@ -3,6 +3,7 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
     height: 100vh;
+    overflow: hidden;
     background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
     background-position: -30% 300%, 130% -240%;
     background-repeat: no-repeat, no-repeat;
